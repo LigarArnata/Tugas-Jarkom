@@ -65,36 +65,56 @@
 
   ### Soal Nomor 1 TCP
 
+  What is the IP address and TCP port number used by the client computer (source) that is transferring the alice.txt file to gaia.cs.umass.edu?
+
   ### Jawaban Nomor 1 TCP
 
 
   ### Soal Nomor 2 TCP
+
+  What is the IP address of gaia.cs.umass.edu? On what port number is it sending and receiving TCP segments for this connection ?
   
   ### Jawaban Nomor 2 TCP
 
 
   ### Soal Nomor 3 TCP
 
+  What is the sequence number of the TCP SYN segment that is used to initiate the TCP connection between the client computer and gaia.cs.umass.edu ?
+
   ### Jawaban Nomor 3 TCP
 
 
   ### Soal Nomor 4 TCP
 
+  - What is the sequence number of the SYNACK segment sent by gaia.cs.umass.edu to the client computer in reply to the SYN ?
+  - What is it in the segment that identifies the segment as a SYNACK segment ?
+  - What is the value of the Acknowledgement field in the SYNACK segment ?
+  - How did gaia.cs.umass.edu determine that value ?
+
   ### Jawaban Nomor 4 TCP
 
 
   ### Soal Nomor 5 TCP
+
+  What is the sequence number of the TCP segment containing the header of the HTTP POST command ?
   
   ### Jawaban Nomor 5 TCP
 
 
   ### Soal Nomor 6 TCP
-  
+
+  Consider the TCP segment containing the HTTP “POST” as the first segment in the data transfer part of the TCP connection
+  - At what time was the first segment (the one containing the HTTP POST) in the data-transfer part of the TCP connection sent ?  
+  - At what time was the ACK for this first data-containing segment received ? 
+  - What is the RTT for this first data-containing segment ? 
+
   ### Jawaban Nomor 6 TCP
 
 
   ### Soal Nomor 7 TCP
-  
+
+  What is the length (header plus payload) of each of the first four data-carrying TCP segments ?
+    
   ### Jawaban Nomor 7 TCP
 
 
@@ -103,34 +123,55 @@
 
   ### Soal Nomor 1 UDP
 
+  Select the first UDP segment in your trace
+  - What is the packet number of this segment in the trace file ?
+  - What type of application-layer payload or protocol message is being carried in this UDP segment ?
+  - How many fields are there in the UDP header ?
+
   ### Jawaban Nomor 1 UDP
 
 
   ### Soal Nomor 2 UDP
+
+  By consulting the displayed information in Wireshark’s packet content field for this packet (or by consulting the textbook), what is the length (in bytes) of each of the UDP header fields ?
   
   ### Jawaban Nomor 2 UDP
 
 
   ### Soal Nomor 3 UDP
 
+  The value in the Length field is the length of what ? (You can consult the text for this answer). Verify your claim with your captured UDP packet.
+
   ### Jawaban Nomor 3 UDP
 
 
   ### Soal Nomor 4 UDP
 
+  What is the maximum number of bytes that can be included in a UDP payload ? 
+
   ### Jawaban Nomor 4 UDP
 
 
   ### Soal Nomor 5 UDP
+
+  What is the largest possible source port number ?
   
   ### Jawaban Nomor 5 UDP
 
 
   ### Soal Nomor 6 UDP
+
+  What is the protocol number for UDP ?
   
   ### Jawaban Nomor 6 UDP
 
 
   ### Soal Nomor 7 UDP
+
+  Examine the pair of UDP packets in which your host sends the first UDP packet and the second UDP packet is a reply to this first UDP packet. 
+  - What is the packet number of the first of these two UDP segments in the trace file ?
+  - What is the packet number of the second of these two UDP segments in the trace file ?
+  - Describe the relationship between the port numbers in the two packets.
+
   
   ### Jawaban Nomor 7 UDP
