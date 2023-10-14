@@ -8,6 +8,7 @@
 
 - [Tugas Hands On TCP dan UDP Jarkom](#tugas-hands-on-tcp-dan-udp-jarkom)
   - [Daftar Isi](#daftar-isi)
+  - [Informasi](#informasi)
   - [TCP](#tcp)
     - [Soal Nomor 1](#soal-nomor-1-tcp)
     - [Jawaban Nomor 1](#jawaban-nomor-1-tcp)
@@ -67,6 +68,10 @@
       - [Explanation](#explanation-7-udp)
 
 
+
+  ## Informasi
+
+  Dalam melakukan hands on ini, saya melakukan capturing wireshark pada internet local saya dan melakukan step sesuai dengan PDF. Sehingga jawaban mungkin saja berbeda dengan file yang disediakan pada PDF.
 
   ## TCP
 
