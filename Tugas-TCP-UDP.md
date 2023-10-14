@@ -63,5 +63,74 @@
 
   ## TCP
 
+  ### Soal Nomor 1 TCP
 
-  ### 
+  ### Jawaban Nomor 1 TCP
+
+
+  ### Soal Nomor 2 TCP
+  
+  ### Jawaban Nomor 2 TCP
+
+
+  ### Soal Nomor 3 TCP
+
+  ### Jawaban Nomor 3 TCP
+
+
+  ### Soal Nomor 4 TCP
+
+  ### Jawaban Nomor 4 TCP
+
+
+  ### Soal Nomor 5 TCP
+  
+  ### Jawaban Nomor 5 TCP
+
+
+  ### Soal Nomor 6 TCP
+  
+  ### Jawaban Nomor 6 TCP
+
+
+  ### Soal Nomor 7 TCP
+  
+  ### Jawaban Nomor 7 TCP
+
+
+
+  ## UDP
+
+  ### Soal Nomor 1 UDP
+
+  ### Jawaban Nomor 1 UDP
+
+
+  ### Soal Nomor 2 UDP
+  
+  ### Jawaban Nomor 2 UDP
+
+
+  ### Soal Nomor 3 UDP
+
+  ### Jawaban Nomor 3 UDP
+
+
+  ### Soal Nomor 4 UDP
+
+  ### Jawaban Nomor 4 UDP
+
+
+  ### Soal Nomor 5 UDP
+  
+  ### Jawaban Nomor 5 UDP
+
+
+  ### Soal Nomor 6 UDP
+  
+  ### Jawaban Nomor 6 UDP
+
+
+  ### Soal Nomor 7 UDP
+  
+  ### Jawaban Nomor 7 UDP
